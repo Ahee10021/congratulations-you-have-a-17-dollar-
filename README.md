@@ -1,0 +1,2 @@
+# congratulations-you-have-a-17-dollar-
+name:  congratulations  you have a 17 dollar ***Thanks for taking the time to fill out this report!*** - type: dropdown id: environment attributes: label: Which environment you are using ? multiple: false options: - Linux / Desktop - Termux / Android *A summary of the issue. Attach screenshots if needed.* validations: required: true - type: textarea id: logs attributes: render: shell label: Provide log output [Optional] description: 
